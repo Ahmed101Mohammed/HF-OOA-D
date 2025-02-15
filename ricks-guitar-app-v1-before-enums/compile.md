@@ -1,0 +1,1 @@
+ g++ .\FindGuitarTester.cpp .\Guitar.cpp .\Inventory.cpp .\main.cpp -o guitar_program.exe
