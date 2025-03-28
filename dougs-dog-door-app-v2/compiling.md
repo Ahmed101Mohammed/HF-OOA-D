@@ -1,0 +1,1 @@
+g++ .\DogDoor.cpp .\DogDoorSimulator.cpp .\Remote.cpp .\main.cpp -o dog_door_app.exe
