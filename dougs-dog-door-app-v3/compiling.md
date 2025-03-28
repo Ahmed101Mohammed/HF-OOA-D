@@ -1,0 +1,1 @@
+.\DogDoor.cpp .\DogDoorSimulator.cpp .\Remote.cpp .\main.cpp .\BarkRecognizer.cpp -o dog_door_app.exe
